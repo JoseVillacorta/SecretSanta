@@ -1,11 +1,4 @@
-# Backend
-/backend/target/
-
-# Frontend
-/frontend/node_modules/
-/frontend/build/
-
 # Archivos de IDE
-.idea/
+.idea
 .vscode/
 *.iml
